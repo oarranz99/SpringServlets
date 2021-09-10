@@ -1,5 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
+<%@ page isELIgnored="false" %>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -14,5 +16,7 @@
 		<input type="text" name="paramNombre">
 		<input type="submit">
 	</form>
+	<a href="empleado.jsp"></a>
+	
 </body>
 </html>
